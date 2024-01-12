@@ -1,5 +1,6 @@
-<!--
 Formerly known as MC Markov chain Monte Carlo (MC MCMC).
+
+<!--
 
 - 🔭 I’m currently working on ...
 - 🌱 I’m currently learning ...
