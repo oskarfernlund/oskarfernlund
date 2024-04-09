@@ -1,1 +1,1 @@
-Machine learning researcher and acolyte of the reverend Thomas Bayes 🙏
+machine learning researcher and acolyte of the reverend thomas bayes 🙏
